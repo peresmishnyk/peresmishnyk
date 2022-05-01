@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[My image](peresmishnyk.github.com/peresmishnyk/img/test.jpg)
-
 <!--
 **peresmishnyk/peresmishnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
